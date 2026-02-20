@@ -12,6 +12,6 @@ Software Engineer @ Brevo
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=Saivaibhav-Brevo&theme=nightowl&hide_border=true" />
-</div>
+</div> -->
