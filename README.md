@@ -1,17 +1,12 @@
-<h1 align="center">Hey 👋, I'm Sai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=50&duration=4000&pause=1000&center=true&vCenter=true&color=F75C7E&repeat=false&width=600&lines=Saivaibhav" alt="Saivaibhav" />
+</p>
 
-<h3 align="center">
-Software Engineer @ Brevo
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=F75C7E&repeat=false&width=500&lines=Software+Engineer+at+Brevo" alt="Software Engineer at Brevo" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&perline=8" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,less,redux,vite,webpack,jest,git&perline=6" />
-</div>
-
-<br />
-
-<!-- <div align="center">
-  <img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=Saivaibhav-Brevo&theme=nightowl&hide_border=true" />
-</div> -->
